@@ -12,3 +12,5 @@ RandomPasswordGenerator.py - Generates a secure password, and lets you customize
 Calculator.py - A very simple calculator.
 
 Space-Invaders.zip - Space invaders made in python.
+
+Magic 8-Ball.py - Magic 8-Ball game
