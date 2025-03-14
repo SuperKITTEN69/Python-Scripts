@@ -8,3 +8,5 @@ SystemInfo.py - Lets you see your system information.
 SimpleMathScript.py - Lets you make some math.
 
 RandomPasswordGenerator.py - Generates a secure password, and lets you customize the way you want your password to be.
+
+Calculator.py - A very simple calculator.
