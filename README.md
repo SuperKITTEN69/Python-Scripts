@@ -11,4 +11,4 @@ RandomPasswordGenerator.py - Generates a secure password, and lets you customize
 
 Calculator.py - A very simple calculator.
 
-Space-Invaders - Space invaders made in python.
+Space-Invaders.zip - Space invaders made in python.
