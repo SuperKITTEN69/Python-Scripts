@@ -1,7 +1,9 @@
 import webbrowser
 
-# Replace this with the YouTube URL you want to open
-youtube_url = "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+answer = input("Are you sure you wanna execute this file? (Y/N): ").strip().upper()
 
-# Open the URL in the default web browser
-webbrowser.open(youtube_url)
+if answer == "Y":
+    url = "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+    webbrowser.open(url)
+elif answer == "N":
+    input("Press any button to close...")
