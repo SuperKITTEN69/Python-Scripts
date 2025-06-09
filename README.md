@@ -18,3 +18,5 @@ Magic 8-Ball.py - Magic 8-Ball game
 NameAgeJob.py - A script that asks your name age and job.
 
 RickRollPrank.py - A simple script that when executed your browser opens the rick roll youtube video.
+
+DangerousPrank.py - A script that opens a specific url [Don't use without permission of the pc owner]
